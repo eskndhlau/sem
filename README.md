@@ -21,5 +21,8 @@ TEST 10
 # Software Engineering Methods
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/eskndhlau/sem/build/develop?style=flat-square)
 
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/eskndhlau/sem/workflows/develop?style=flat-square)
+
 
 
