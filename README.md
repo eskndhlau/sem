@@ -11,3 +11,4 @@ Test 8  if CI workflow is working
 Test 9  if CI workflow is working
 another test
 TEST 10
+![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
