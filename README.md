@@ -16,3 +16,7 @@ TEST 10
 [![Releases](https://img.shields.io/github/release/eskndhlau/sem/all.svg?style=flat-square)](https://github.com/eskndhlau/sem/releases)
 # Software Engineering Methods
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/eskndhlau/sem/build/develop?style=flat-square)
+
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/eskndhlau/sem/actions/develop?style=flat-square)
+
