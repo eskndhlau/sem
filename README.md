@@ -14,3 +14,5 @@ TEST 10
 ![workflow](https://github.com/eskndhlau/sem/actions/workflows/main.yml/badge.svg)
 [![LICENSE](https://img.shields.io/github/license/eskndhlau/sem.svg?style=flat-square)](https://github.com/eskndhlau/sem/blob/master/LICENSE)
 [![Releases](https://img.shields.io/github/release/eskndhlau/sem/all.svg?style=flat-square)](https://github.com/eskndhlau/sem/releases)
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/eskndhlau/sem/build/develop?style=flat-square)
