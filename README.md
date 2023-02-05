@@ -11,6 +11,7 @@ Test 8  if CI workflow is working
 Test 9  if CI workflow is working
 another test
 TEST 10
+
 ![workflow](https://github.com/eskndhlau/sem/actions/workflows/main.yml/badge.svg)
 
 [![LICENSE](https://img.shields.io/github/license/eskndhlau/sem.svg?style=flat-square)](https://github.com/eskndhlau/sem/blob/master/LICENSE)
@@ -20,6 +21,5 @@ TEST 10
 # Software Engineering Methods
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/eskndhlau/sem/build/develop?style=flat-square)
 
-# Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/eskndhlau/sem/actions/develop?style=flat-square)
+
 
